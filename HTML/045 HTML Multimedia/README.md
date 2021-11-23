@@ -1,4 +1,4 @@
-# HTML Canvas
+# HTML Multimedia
 
 Multimedia dalam web adalah suara, musik, video, film, dan animasi.
 
